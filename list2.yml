@@ -1,0 +1,25 @@
+---
+# dealership
+cars:
+  - tesla
+  - lexus
+  - toyota
+# colors
+clors:
+  - white
+  - black
+  - red
+# Turdukan's options
+car:
+  model:
+    - teslax
+    - teslay
+    - teslas
+    - tesla3
+  color:
+    - white
+    - black
+    - red
+  location:
+    - chicago
+     

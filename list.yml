@@ -1,0 +1,18 @@
+---
+# Grocery List
+# Dairy products
+dairy:
+  milk: "2"
+  eggs: "12"
+# Bakery products
+bakery:
+  bread: "1"
+  donuts: "12"
+  cookies: "6"
+# Meat products
+meat:
+  chicken: "8"
+  beef: "5"
+register:
+    gum: "2"
+    cookies: "4"
