@@ -2,3 +2,22 @@
 # Testing
 # Variable "a" = "apple"
 a: "apple"
+
+# Daniel in CVS
+# soda1
+cost1: "1"
+
+# soda2 
+cost2: "2" 
+
+# soda3
+cost3: "3"
+
+# cihangir's car color
+color-cihangir: "grey"
+
+# azat's car color
+color-azat: "black"
+
+# iman's car color
+color-iman: "black"
